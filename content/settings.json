@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "language": "ko",
+    "siteUrl": "https://kingpigbo.github.io/",
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
@@ -9,7 +9,6 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
@@ -17,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "PigBo" },
+    "logo": { "text": "KingPigBo" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -25,11 +24,6 @@
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
-      "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
-      },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }

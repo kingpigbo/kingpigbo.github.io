@@ -1,7 +1,7 @@
 {
   "intro": "Hej",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/lego-dummy.webp",
     "alt": "My Photo"
   },
   "image": {
@@ -14,9 +14,5 @@
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme."
 }
